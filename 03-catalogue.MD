@@ -130,5 +130,11 @@ Load Schema
 ```
 mongosh --host mongodb.doddapaneni.shop </app/schema/catalogue.js
 ```
+```
+systemctl restart catalogue
+```
+```
+curl http://localhost:8080/health
+```
 
 **NOTE: You need to update catalogue server ip address in frontend configuration. Configuration file is /etc/nginx/default.d/roboshop.conf**
