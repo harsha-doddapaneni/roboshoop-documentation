@@ -122,3 +122,10 @@ Load Schema
 mongosh --host mongodb.doddapaneni.shop </app/schema/user.js
 ```
 
+```
+systemctl restart user
+```
+
+```
+curl http://localhost:8080/health
+```
