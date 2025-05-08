@@ -91,3 +91,6 @@ systemctl enable cart
 ```
 systemctl start cart
 ```
+```
+curl http://localhost:8080/health
+```
