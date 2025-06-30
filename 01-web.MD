@@ -1,6 +1,6 @@
 # 01-WEB
 
-* The Web/Frontend is the service in RoboShop to serve the web content over Nginx. 
+* The Web/Frontend is the service in RoboShop to serve the web content over Nginx.
 * This will have the web page for the web application.
 * Developer has chosen Nginx as a web server and thus we will install Nginx Web Server.
 
